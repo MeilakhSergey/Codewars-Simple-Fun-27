@@ -10,7 +10,6 @@ public class Solution {
             d = 1;
         else
             d = 0;
-        int c = (a1 + 1) * b1 / 2 + a1 / 2 + d;
-        return c;
+        return (a1 + 1) * b1 / 2 + a1 / 2 + d;
     }
 }
